@@ -1,0 +1,51 @@
+body {
+    background-image: linear-gradient(45deg, #252525,#000000);
+}
+
+.subsubtitle {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.subtitle {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+}
+
+.title {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    text-align: center;
+    border: white;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+.list {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+}
+
+.a {
+    color: #2679ff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.dificil {
+    color: #a52a2a;
+    font-weight: 1000;
+}
+
+.facil {
+    color: #00a800;
+    font-weight: 1000;
+}
+
+.medio {
+    color: #ffff00;
+    font-weight: 1000;
+}
